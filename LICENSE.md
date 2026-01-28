@@ -1,4 +1,4 @@
-Copyright (c) 2026 Dein Name
+Copyright (c) 2026 2Sky182
 All rights reserved.
 
 This repository contains updater binaries only.
